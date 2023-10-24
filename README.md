@@ -2,7 +2,7 @@
   <img src="statesbr.png">
 </div>
 
-# Jogo: Adivinhe os Estados do Brail
+# Jogo: Adivinhe os Estados do Brasil
 
 Um jogo em Python, cujo objetivo é digitar os nome de todos os estados do Brasil.
 
